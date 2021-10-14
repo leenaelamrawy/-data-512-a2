@@ -16,7 +16,6 @@ The API documentaion for ORES REST was used to obtain the quality predictions fo
 Relevant Resources and documentation:
 
 1) Politicians by Country Dataset 
-
 https://www.google.com/url?q=https://figshare.com/articles/Untitled_Item/5513449&sa=D&source=docs&ust=1634182682180000&usg=AOvVaw2GBl38gBGBaaJpZJkWa7Qy
 4) World Population Dataset
 https://www.prb.org/international/indicator/population/table/
