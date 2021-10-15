@@ -8,11 +8,11 @@ git clone https://github.com/leenaelamrawy/data-512-a1.git
 
 # Data Descriptions:
 
-1) Politicians by Country Dataset: 
+Politicians by Country Dataset: 
   - article name: the title of the article
   - country: the country the article is linked to
   - revision id: the version of the edited article
-3) World Population Dataset:
+World Population Dataset:
  - country: the country we are interested in
  - region: the region the country is in
  - population: population of the country
