@@ -12,6 +12,7 @@ Politicians by Country Dataset:
   - article name: the title of the article
   - country: the country the article is linked to
   - revision id: the version of the edited article
+  - 
 World Population Dataset:
  - country: the country we are interested in
  - region: the region the country is in
@@ -25,6 +26,7 @@ The API documentaion for ORES REST was used to obtain the quality predictions fo
 # Relevant Resources and Documentation: 
 
 1) Politicians by Country Dataset 
+
 https://www.google.com/url?q=https://figshare.com/articles/Untitled_Item/5513449&sa=D&source=docs&ust=1634182682180000&usg=AOvVaw2GBl38gBGBaaJpZJkWa7Qy
 
 2) World Population Dataset
