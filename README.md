@@ -2,13 +2,21 @@
 
 REPRODUCING ANALYSIS:
 
-The analysis can be reproduced by running all the cells in the jupyter notebook in order. The repo can be cloned using the following command: 
+The analysis can be reproduced by running all the cells in the jupyter notebook in order. 
+The repo can be cloned using the following command: 
 git clone https://github.com/leenaelamrawy/data-512-a1.git
 
 DATA DESCRIPTIONS:
 
-1) Politicians by Country Dataset: contains the article name, country and revision id
-2) World Population Dataset: contains country, region, population, timeframe/year of the article
+1) Politicians by Country Dataset: 
+  - article name: the title of the article
+  - country: the country the article is linked to
+  - revision id: the version of the edited article
+3) World Population Dataset:
+ - country: the country we are interested in
+ - region: the region the country is in
+ - population: population of the country
+ - timeframe: year that the article was published
 
 ATTRIBUTIONS AND PROVENANCE INFORMATION:
 
