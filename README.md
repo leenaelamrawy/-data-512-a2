@@ -1,12 +1,12 @@
 # data-512-a2
 
-REPRODUCING ANALYSIS:
+# Reproducing Analysis:
 
 The analysis can be reproduced by running all the cells in the jupyter notebook in order. 
 The repo can be cloned using the following command: 
 git clone https://github.com/leenaelamrawy/data-512-a1.git
 
-DATA DESCRIPTIONS:
+# Data Descriptions:
 
 1) Politicians by Country Dataset: 
   - article name: the title of the article
@@ -18,11 +18,11 @@ DATA DESCRIPTIONS:
  - population: population of the country
  - timeframe: year that the article was published
 
-ATTRIBUTIONS AND PROVENANCE INFORMATION:
+# Attributions and Provenance Information
 
 The API documentaion for ORES REST was used to obtain the quality predictions for each of the revision ids in the dataset. 
 
-RELEVANT RESOURCES AND DOCUMENTATION:
+# Relevant Resources and Documentation: 
 
 1) Politicians by Country Dataset 
 https://www.google.com/url?q=https://figshare.com/articles/Untitled_Item/5513449&sa=D&source=docs&ust=1634182682180000&usg=AOvVaw2GBl38gBGBaaJpZJkWa7Qy
