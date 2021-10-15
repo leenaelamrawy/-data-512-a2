@@ -25,15 +25,15 @@ The API documentaion for ORES REST was used to obtain the quality predictions fo
 
 # Relevant Resources and Documentation: 
 
-1) Politicians by Country Dataset 
+1)[ Politicians by Country Dataset ](https://www.google.com/url?q=https://figshare.com/articles/Untitled_Item/5513449&sa=D&source=docs&ust=1634182682180000&usg=AOvVaw2GBl38gBGBaaJpZJkWa7Qy)
 
-https://www.google.com/url?q=https://figshare.com/articles/Untitled_Item/5513449&sa=D&source=docs&ust=1634182682180000&usg=AOvVaw2GBl38gBGBaaJpZJkWa7Qy
 
-2) World Population Dataset
-https://www.prb.org/international/indicator/population/table/
 
-3) How the quality of Wikipedia articles is measured:
-https://en.wikipedia.org/wiki/Wikipedia:Content_assessment
+2) [World Population Dataset](https://www.prb.org/international/indicator/population/table/)
 
-4) ORES REST Documentation:
- https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model
+
+3) [How the quality of Wikipedia articles is measured](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
+
+
+4) [ORES REST Documentation]( https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_revid_model)
+
